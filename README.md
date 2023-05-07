@@ -1,10 +1,9 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Dibyajyoti Dev Ray</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+Heya! I'm Dibyajyoti Dev Ray, a student currently in 3rd Year of my Btech. I am Full stack Developer 
+and learning AI/ML through small projects.
 
 <br>
 
