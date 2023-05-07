@@ -3,7 +3,7 @@
 </h1>
 
 Heya! I'm Dibyajyoti Dev Ray, a student currently in 3rd Year of my Btech. I am Full stack Developer 
-and learning AI/ML through small projects.
+and learning AI/ML by doing projects.
 
 <br>
 
