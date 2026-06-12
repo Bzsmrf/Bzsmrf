@@ -26,7 +26,6 @@ class Dibyajyoti Dev Ray():
   def __init__(self):
     self.name = "Dibyajyoti Dev Ray";
     self.username = "Bzsmrf";
-    self.location = "Chandigarh, India";
     self.Linkdin = "https://www.linkedin.com/in/dibyajyoti-dev-ray-296b56219";
     
   
